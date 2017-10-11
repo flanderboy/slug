@@ -3,7 +3,7 @@ slug is a free function to create beautiful URL for blog or website.
 
 # Installation
 
-  	require_once ('/path/to/array2xml.php');
+  	require_once ('/path/to/slug.php');
 
 # Usage
 Load the library
