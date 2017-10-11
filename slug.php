@@ -7,7 +7,7 @@
    * @version        1.0
    */
 
-class slug {
+class Slug {
 
 	public function create($str, $options = array()) {
 
