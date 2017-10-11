@@ -1,5 +1,5 @@
 # slug
-slug is a free function to create beautiful URL.
+slug is a free function to create beautiful URL for blog or website.
 
 # Installation
 
