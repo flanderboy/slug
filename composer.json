@@ -1,5 +1,6 @@
 {
     "name": "flanderboy/slug",
+    "type" : "library",
     "description": "Slug is a free function to create beautiful URL for blog or website.",
     "keywords": ["beautiful URL"],
     "license": "MIT",
