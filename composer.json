@@ -1,0 +1,8 @@
+{
+    "name": "flanderboy/slug",
+    "description": "slug is a free function to create beautiful URL for blog or website.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
