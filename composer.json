@@ -1,0 +1,14 @@
+{
+    "name": "flanderboy/slug",
+    "description": "Slug is a free function to create beautiful URL for blog or website.",
+    "keywords": ["beautiful URL"],
+    "license": "MIT",
+    "homepage": "https://github.com/flanderboy/slug",
+    "authors": [
+        {
+            "name": "Stefano Massimino",
+            "email": ""
+            "role": "Developer"
+        }
+    ]
+}
